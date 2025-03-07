@@ -23,8 +23,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo_black.svg" alt="Power BI" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/OmarAhmedWahby/images/main/powerbi.svg" alt="Power BI" width="40" height="40"/>
 </a>
+
 
         
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
