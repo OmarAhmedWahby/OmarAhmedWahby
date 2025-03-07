@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **omarwahby35@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17Ghi4IH8IMKaZvUATAr_r8Vv9aB3LyJH/view?usp=sharing](https://drive.google.com/file/d/17Ghi4IH8IMKaZvUATAr_r8Vv9aB3LyJH/view?usp=sharing)
-
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
