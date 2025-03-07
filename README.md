@@ -22,9 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/OmarAhmedWahby/OmarAhmedWahby/blob/main/images%20github/Power%20BI%20icon.jpg" alt="Power BI" width="40" height="40"/>
-</a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://github.com/OmarAhmedWahby/OmarAhmedWahby/blob/main/images%20github/Power_BI_icon-removebg-preview.png" alt="Power BI" width="40" height="40"/</a>
 
 
         
