@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo_black.svg" alt="Power BI" width="40" height="40"/></a>
+    <img src="E:\Power BI icon.jpg" alt="Power BI" width="40" height="40"/></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40"/></a>
  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
