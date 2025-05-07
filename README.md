@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Power Bi**
 
-- 📝 I regularly write articles on [www.linkedin.com/in/omarwahby](www.linkedin.com/in/omarwahby)
+- 📝 I regularly write articles on [linkedin.com/in/omarwahby](https://www.linkedin.com/in/omarwahby/)
 
 - 💬 Ask me about **SQL,Power Bi**
 
