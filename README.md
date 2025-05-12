@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Data Analysis Projects](https://github.com/stars/OmarAhmedWahby/lists/data-analysis)
 
-- 🌱 I’m currently learning **Power Bi**
+- 🌱 I’m currently learning **Python**
 
 - 📝 I regularly write articles on [linkedin.com/in/omarwahby](https://www.linkedin.com/in/omarwahby/)
 
