@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Ahmed</h1>
 <h3 align="center">A passionate Data Analyst & Power Bi Engineer From Egypt</h3>
 
-- 🔭 I’m currently working on [Data Analysis Projects]([https://github.com/stars/OmarAhmedWahby/lists/data-analysis](https://github.com/stars/OmarAhmedWahby/lists/data-analysis-projects))
+- 🔭 I’m currently working on [Data Analysis Projects](https://github.com/users/OmarAhmedWahby/lists/data-analysis-projects)
 
 - 🌱 I’m currently learning **Python**
 
