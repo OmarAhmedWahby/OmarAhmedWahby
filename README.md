@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Ahmed</h1>
 <h3 align="center">A passionate Data Analyst & Power Bi Engineer From Egypt</h3>
 
-- 🔭 I’m currently working on [E-commerce-Analytics](https://github.com/OmarAhmedWahby/Azure-Cloud-Migration-E-commerce-Analytics)
+- 🔭 I’m currently working on [E-commerce-Analytics](https://github.com/OmarAhmedWahby/E-commerce_Analytics)
 
 - 🌱 I’m currently learning **Python**
 
