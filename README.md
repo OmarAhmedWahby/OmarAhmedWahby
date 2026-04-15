@@ -1,8 +1,4 @@
-# Hi 👋, I'm Omar Ahmed Wahby
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=OmarAhmedWahby&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+# Hi 👋, I'm Omar Wahby
 
 ### Analytics Engineer  
 Building data pipelines that turn raw data into real business decisions.
@@ -12,13 +8,14 @@ Building data pipelines that turn raw data into real business decisions.
 - 📫 How to reach me **omarwahby35@gmail.com**
 - 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/omarwahby/)**
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=OmarAhmedWahby&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
 
 ### Connect with me:
 <p align="left">
-  <a href="https://github.com/OmarAhmedWahby" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="30"/>
-  </a>
   <a href="https://linkedin.com/in/omarwahby" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
   </a>
