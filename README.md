@@ -29,16 +29,12 @@ Building data pipelines that turn raw data into real business decisions.
 ### Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,kafka,linux,git,bash&perline=8" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy&perline=2" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,kafka,linux,git,bash,pandas,numpy&perline=10" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40"/>
-</p>
-
-<p align="left">
+  
   <img src="https://github.com/OmarAhmedWahby/OmarAhmedWahby/blob/main/images%20github/Power_BI_icon-removebg-preview.png" width="40"/>
+  
   <img src="https://github.com/OmarAhmedWahby/OmarAhmedWahby/blob/main/images%20github/Excal-removebg-preview.png" width="40"/>
 </p>
 
