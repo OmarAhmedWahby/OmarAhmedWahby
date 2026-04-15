@@ -29,15 +29,20 @@ Building data pipelines that turn raw data into real business decisions.
 ### Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,kafka,linux,git,bash,pandas,numpy&perline=10" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40"/>
-  
-  <img src="https://github.com/OmarAhmedWahby/OmarAhmedWahby/blob/main/images%20github/Power_BI_icon-removebg-preview.png" width="40"/>
-  
-  <img src="https://github.com/OmarAhmedWahby/OmarAhmedWahby/blob/main/images%20github/Excal-removebg-preview.png" width="40"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
+  <img src="https://skillicons.dev/icons?i=kafka" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bash" height="40"/>
+  <img src="https://skillicons.dev/icons?i=pandas" height="40"/>
+  <img src="https://skillicons.dev/icons?i=numpy" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40"/>
+  <img src="https://github.com/OmarAhmedWahby/OmarAhmedWahby/blob/main/images%20github/Power_BI_icon-removebg-preview.png" height="40"/>
+  <img src="https://github.com/OmarAhmedWahby/OmarAhmedWahby/blob/main/images%20github/Excal-removebg-preview.png" height="40"/>
 </p>
-
 ---
 
 ### GitHub Stats:
