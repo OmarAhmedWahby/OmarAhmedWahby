@@ -2,10 +2,6 @@
 
 ### Analytics Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OmarAhmedWahby&label=Profile views&color=0e75b6&style=flat" alt="OmarAhmedWahby" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OmarAhmedWahby" alt="OmarAhmedWahby" /></a> </p>
-
 - 🔭 I'm currently working on **a modern data platform integrating ETL, orchestration, and analytics**
 
 - 🌱 I'm currently learning **Data Engineering**
