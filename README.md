@@ -37,10 +37,3 @@ Building data pipelines that turn raw data into real business decisions.
   <img src="https://github.com/OmarAhmedWahby/OmarAhmedWahby/blob/main/images%20github/Power_BI_icon-removebg-preview.png" height="40"/>
   <img src="https://github.com/OmarAhmedWahby/OmarAhmedWahby/blob/main/images%20github/Excal-removebg-preview.png" height="40"/>
 </p>
-
----
-
-### GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAhmedWahby" />
-</p>
